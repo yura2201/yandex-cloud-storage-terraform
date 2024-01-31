@@ -1,0 +1,7 @@
+/.idea/
+
+secrets.*
+/.terraform/
+/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
